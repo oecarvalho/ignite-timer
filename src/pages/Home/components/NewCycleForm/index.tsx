@@ -21,11 +21,7 @@ export function NewCycleForm(){
                     />
 
                     <datalist id='task-suggestions'>
-                        <option value="Banana"></option>
-                        <option value="Banana"></option>
-                        <option value="Banana"></option>
-                        <option value="Banana"></option>
-                        <option value="Banana"></option>
+
                     </datalist>
 
                     <label htmlFor="">durante</label>
